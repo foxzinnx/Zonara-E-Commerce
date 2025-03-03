@@ -8,6 +8,12 @@ export default {
   ],
   theme: {
     extend: {
+      fontFamily: {
+        inter: ['Inter']
+      },
+      boxShadow: {
+        'custom': '0px 2px 10px #000',
+      },
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
