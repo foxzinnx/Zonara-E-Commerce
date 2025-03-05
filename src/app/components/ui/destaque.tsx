@@ -84,7 +84,7 @@ export const Destaque = () => {
                     {/* Product 4 */}
                     <div className="rounded-lg overflow-hidden">
                         <div className="bg-[#F3F5F7] rounded-lg shadow-lg relative group">
-                            <img className="pt-[4.5rem] p-7 pb-24 hover:scale-110 transition-transform duration-300 cursor-pointer" src="https://www.iplacecorp.com.br/file/general/iplaceb2b-lp-macair-m3-macbook_air_m3_small_2x.png?1708555710108" alt="" />
+                            <img className="p-5 hover:scale-110 transition-transform duration-300 cursor-pointer" src="/macbook.png" alt="" />
                             <div className="bg-black absolute bottom-0 flex rounded-lg gap-2 justify-center items-center w-full h-12 opacity-0 group-hover:opacity-100 transition-opacity duration-300 cursor-pointer">
                                 <FontAwesomeIcon icon={faCartPlus} className="size-5 text-slate-50" />
                                 <p className="text-slate-50 text-[14px]">Adicionar ao carrinho</p>
