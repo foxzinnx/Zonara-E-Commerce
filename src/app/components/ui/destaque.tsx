@@ -18,7 +18,7 @@ export const Destaque = () => {
                 <div className="border-b-2 pb-3 border-neutral-200">
                     <h1 className="text-[1.4rem] font-semibold">Destaques</h1>
                 </div>
-                <div className="grid grid-cols-1 pt-10 gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
+                <div className="grid grid-cols-2 pt-10 gap-10 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4">
                     {/* Product 1 */}
                     <div className="rounded-lg overflow-hidden">
                         <div className="bg-[#F3F5F7] shadow-lg rounded-lg relative group">
